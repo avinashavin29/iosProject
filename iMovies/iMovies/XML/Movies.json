@@ -1,0 +1,46 @@
+{
+    "Movies": {
+        "Movie": [
+                  {
+                  "movieName": "Chirutha",
+                  "cast": "Ramcharan,Nanditha",
+                  "genre": "LoveStory",
+                  "movieDesc": "Test",
+                  "showTimes": "10.0AM",
+                  "price": "1"
+                  },
+                  {
+                  "movieName": "Mirchi",
+                  "cast": "Prabash,Anuska",
+                  "genre": "Family Enternainer",
+                  "movieDesc": "Test",
+                  "showTimes": "10.0AM",
+                  "price": "2"
+                  },
+                  {
+                  "movieName": "Manam",
+                  "cast": "Nagarjuna,Nagachaitanya",
+                  "genre": "Family Enternainer",
+                  "movieDesc": "Test",
+                  "showTimes": "10.0AM",
+                  "price": "2"
+                  },
+                  {
+                  "movieName": "AttarintiDaaredi",
+                  "cast": "Pawan,Samantha",
+                  "genre": "Family Enternainer",
+                  "movieDesc": "Test",
+                  "showTimes": "10.0AM",
+                  "price": "3"
+                  },
+                  {
+                  "movieName": "Chatrapathi",
+                  "cast": "Prabhas,Sriya",
+                  "genre": "Family Enternainer",
+                  "movieDesc": "Test",
+                  "showTimes": "10.0AM",
+                  "price": "3"
+                  }
+                  ]
+    }
+}
